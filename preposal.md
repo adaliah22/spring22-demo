@@ -1,13 +1,11 @@
 # Preproposal
 
 ## What idea(s) do you have for your final project?
-
-TODO
+A game that has a stickman completing obstacles using 4 movement keys
+Create something thath does roommate matchmaking
 
 ## If you plan to collaborate with one or two classmates, what are their names?
-
-TODO
+N/A
 
 ## Do you have any questions of your own?
-
-TODO
+Not at the moment
